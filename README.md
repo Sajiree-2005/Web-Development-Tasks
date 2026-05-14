@@ -119,11 +119,11 @@ All projects are designed to be fully responsive and compatible across:
 ```plaintext
 project-folder/
 │
-├── Responsive Landing Page
-├── Google Homepage Clone
-├── Form Validation Website
-├── Simple Blog Page
-└── Responsive Image Gallery
+├── Task 2 
+├── Task 3
+├── Task 4
+├── Task 5
+└── Task 6
 ```
 
 ---
